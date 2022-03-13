@@ -103,8 +103,8 @@ analytics:
 author:
   name             : "Kevin Cui"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : Software Developer, eCommerce Web Developer."
-  location         : "British Columbia, Canada"
+  bio              : "I am a Software Developer, and an eCommerce Web Developer."
+  location         : "Coquitlam, BC"
   email            :
   links:
     - label: "Email"
@@ -125,7 +125,7 @@ footer:
       #url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/darkpkc/"
+      url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       #url: "https://instagram.com/"
