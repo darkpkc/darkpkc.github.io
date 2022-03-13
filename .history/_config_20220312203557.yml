@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Kevin Cui"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Software Developer, eCommerce Web Developer"
+  bio              : "Software Developer, eCommerce Web Developer."
   location         : "British Columbia, Canada"
   email            :
   links:
