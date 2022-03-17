@@ -21,7 +21,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Kevin Cui"
 description              : "Software Developer, eCommerce Web Developer"
 url                      : "https://darkpkc.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "darkpkc/darkpkc.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
