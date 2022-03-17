@@ -1,0 +1,70 @@
+  .container{
+    width: 70%;
+    margin: 0 auto;
+  }
+
+  @keyframes pg_bar{
+    from {
+      width: 0%
+    }
+  }
+
+  @-webkit-keyframes pg_bar{
+    from {
+      width: 0%
+    }
+  }
+
+  @-moz-keyframes pg_bar{
+    from {
+      width: 0%
+    }
+  }
+
+  @-o-keyframes pg_bar{
+    from {
+      width: 0%
+    }
+  }
+  
+  .bar{
+    background-color: #EEE;
+    padding-top: 2px;
+    border-radius: 13px;
+    margin-bottom: 5px;
+    font-size: 16px;
+    color: #FFF;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+  }
+  .bar::before{
+    content:  attr(data-skill);
+    background-color: #190af0;
+    display: inline-block;
+    padding: 5px 0 5px 10px;
+    border-radius: inherit;
+    animation: pg_bar 2s 0s;
+    -webkit-animation: pg_bar 2s 0s;
+    -moz-animation: pg_bar 2s 0s;
+    -o-animation: pg_bar 2s 0s;
+  }
+  
+  .bar.green:before{
+    background-color:#005e3e;
+  }
+
+  .bar.novice::before{
+    width: calc(20% - 10px);
+  }
+  .bar.advanced_beginner::before{
+    width: calc(40% - 10px);
+  }
+  .bar.competent::before{
+    width: calc(60% - 10px);
+  }
+  .bar.proficient::before{
+    width: calc(80% - 10px);
+  }
+  .bar.expert::before{
+    width: calc(100% - 10px);
+  }
