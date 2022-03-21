@@ -25,4 +25,4 @@ The company website can be found on [M.C. Wright and Associates Ltd.](https://ww
 
 I actively participated in developing and maintaining company website by using Joomla features. I modified the templates by chaning CSS file. I updated contents which include words, images, zip files, and pdf files periodally. I re-layouted some software related webpages to imrove ther user experiences. I created two instructional videos for iPhone apps that we built and uploaded them to Youtube. I embedded these two Youtube videos by embedding iframe code into Source Code editor for article. I integrated Paypal payments by adding Buy Now buttons and descriptions.  
 
-The company website attracted more visitors with updated layout, graphics and videos. The Canadian fishermen are able to download software manuals as well as make transactions via Paypal from the website. 
+The company website attracted more visitors with updated layout, graphics and videos. The Canadian fishermen are able to download software builds and software manuals as well as make transactions via Paypal from the website. 
