@@ -255,6 +255,23 @@ compress_html:
   ignore:
     envs: development
 
+# Collections
+collections:
+  work_vbnet_projects:
+    output: true
+    permalink: /:collection/:path/
+  work_java_projects:
+    output: true
+    permalink: /:collection/:path/
+  work_objectivec_projects:
+    output: true
+    permalink: /:collection/:path/
+  work_web_development_projects:
+    output: true
+    permalink: /:collection/:path/
+  work_python_projects:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -276,3 +293,43 @@ defaults:
     values:
       layout: single
       author_profile: true
+# _work_vbnet_projects
+  - scope:
+      path: ""
+      type: work_vbnet_projects
+    values:
+      layout: single
+      author_profile: false
+      share: false
+# _work_java_projects
+  - scope:
+      path: ""
+      type: work_java_projects
+    values:
+      layout: single
+      author_profile: false
+      share: false
+# _work_objectivec_projects
+  - scope:
+      path: ""
+      type: work_objectivec_projects
+    values:
+      layout: single
+      author_profile: false
+      share: false
+# _work_web_development_projects
+  - scope:
+      path: ""
+      type: work_web_development_projects
+    values:
+      layout: single
+      author_profile: false
+      share: false
+# _work_python_projects
+  - scope:
+      path: ""
+      type: work_python_projects
+    values:
+      layout: single
+      author_profile: false
+      share: false
