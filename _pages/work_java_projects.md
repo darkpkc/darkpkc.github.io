@@ -6,5 +6,4 @@ collection: work_java_projects
 entries_layout: grid
 classes: wide
 ---
-
-Parts of my projects lists here.
+**Some projects I worked on**
