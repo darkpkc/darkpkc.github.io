@@ -2,8 +2,8 @@
 title: "M.C. Wright and Associates Company Website"
 excerpt: "A biological consulting and software development company which offers services over BC."
 header:
- image: /assets/images/work-web-development-projects/mcw-website/mcw-homepage.jpg
- teaser: assets/images/work-web-development-projects/mcw-website/mcw-homepage-th.jpg
+ image: /assets/images/work-web-development-projects/mcw-website/mcw-header.jpg
+ teaser: assets/images/work-web-development-projects/mcw-website/mcw-header-th.jpg
 sidebar:
   - title: "Role"
     text: "Developer"

@@ -2,13 +2,15 @@
 title: "Canada Nautical Website"
 excerpt: "An authorized agent for UKHO, CHS and NOAA print on demand charts."
 header:
- image: /assets/images/work-web-development-projects/cnw-website/cnw-homepage.jpg
- teaser: assets/images/work-web-development-projects/cnw-website/cnw-homepage-th.jpg
+ image: /assets/images/work-web-development-projects/cnw-website/cnw-header.jpg
+ teaser: assets/images/work-web-development-projects/cnw-website/cnw-header-th.jpg
 sidebar:
   - title: "Role"
     text: "Designer, Developer"
   - title: "Programming Languages Used"
     text: "HTML, CSS"
+  - title: "Platform"
+    text: "One.com"
 gallery:
   - url: /assets/images/work-web-development-projects/cnw-website/cnw-product.jpg
     image_path: assets/images/work-web-development-projects/cnw-website/cnw-product.jpg
