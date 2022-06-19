@@ -2,7 +2,6 @@
 title: "NCompas Rod and Level"
 excerpt: "An internal program to streamline the collection and calculate site survey data."
 header:
-header:
   teaser: assets/images/work-vbnet-projects/vbnet-project-default-th.jpg
 sidebar:
   - title: "Role"
